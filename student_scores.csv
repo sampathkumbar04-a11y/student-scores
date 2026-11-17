@@ -1,0 +1,11 @@
+StudentID,Name,Class,Subject,Score,Grade
+1,Alice,10,Math,85,A
+2,Bob,10,English,78,B
+3,Charlie,10,Science,92,A
+4,David,9,Math,65,C
+5,Eva,9,English,72,B
+6,Frank,9,Science,88,A
+7,Grace,10,Math,,
+8,Henry,9,English,55,D
+9,Irene,10,Science,95,A
+10,Jack,9,Math,60,C
